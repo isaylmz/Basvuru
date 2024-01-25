@@ -18,7 +18,7 @@ $database = "basvuru";
 
 ---
 ### -- Kayıt Ekleme --
-![Kayıt Ekleme](img/k_ekle.png)
+![Kayıt Ekleme](img/k_ekleme.png)
 
 **Çıktı:** Kayıt başarıyla eklendi.
 
