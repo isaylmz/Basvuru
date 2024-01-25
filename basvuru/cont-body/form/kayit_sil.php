@@ -1,5 +1,5 @@
 <fieldset>
-<h2 style="color:gray;">Kayıt Silme Forumu</h2>
+<h2 style="color:gray;">Kayıt Silme</h2>
 </fieldset>
 <fieldset>
 <form action="cont-body/uygulama/k_sil.php" method="POST" enctype="multipart/form-data">

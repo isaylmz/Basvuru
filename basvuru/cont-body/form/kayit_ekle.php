@@ -1,5 +1,5 @@
 <fieldset>
-<h2 style="color:gray;">Kayıt Ekleme Forumu</h2>
+<h2 style="color:gray;">Kayıt Ekleme</h2>
 </fieldset>
 <fieldset>
 <form action="cont-body/uygulama/k_ekle.php" method="POST" enctype="multipart/form-data">

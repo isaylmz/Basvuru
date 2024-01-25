@@ -1,5 +1,5 @@
 <fieldset>
-<h2 style="color:gray;">Bölüm Düzenleme Forumu</h2>
+<h2 style="color:gray;">Bölüm Düzenleme</h2>
 </fieldset>
 <fieldset>
 <form action="cont-body/uygulama/b_ekle.php" method="POST" >

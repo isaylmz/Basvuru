@@ -1,5 +1,5 @@
 <fieldset>
-<h2 style="color:gray;">Kayıt Düzenleme Forumu</h2>
+<h2 style="color:gray;">Kayıt Düzenleme</h2>
 </fieldset>
 <fieldset>
 <form action="cont-body/uygulama/k_duzenle.php" method="POST" enctype="multipart/form-data">
